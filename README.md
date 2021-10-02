@@ -2,7 +2,7 @@
 - I’m currently studying in a secondary school in Vietnam. 
 - I’m currently learning C, C++, C#, HTML, CSS, Python, a little bit of Java and Javascript.
 - I’m looking for help with HTML and CSS, Python, sometimes C#(my favorite programming language)
-- How to reach me?: Sent a email to hoangminhthien05022009@gmail.com or hoangminhthiendev@gmail.com
+- How to reach me?: Sent a email to hoangminhthien05022009@gmail.com or thiencoder05022009@protonmail.com
 - Fun fact: I'm a student but I know how to fix the computer error. I.T. is my favorite lesson in school
 - 😊 Enjoy your best day!!!
 <!--
