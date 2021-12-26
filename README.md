@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I’m currently studying in a secondary school in Vietnam. 
-- I'm a Linux fanboy, curently using Fedora Linux.
+- I'm a Linux fanboy, currently using Fedora Linux.
 - I’m learning Dart-lang and Flutter Framework.
 - Contact me via:
 1. Discord: davidhoang05022009#2548
