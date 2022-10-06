@@ -1,9 +1,18 @@
-### Hi there 👋
-- I’m currently studying in a secondary school in Vietnam. 
-- I'm a Linux fanboy, currently using Fedora Linux.
-- I’m learning Dart-lang and Flutter Framework.
-- Contact me via:
+# Hi there 👋
+
+## I'm...
+
+- A Vietnamese student studying in secondary school.
+- A Linux fanboy, using Fedora Linux.
+
+## Skills:
+
+- Flutter, Dart, Web (learning in progress)
+
+## Contact me via:
+
 1. Discord: davidhoang05022009#2548
-2. Signal/Telegram: +84353160723(I don't use WhatsApp, I hate Facebook)
-3. Send an email to hoangminhthien05022009@gmail.com or thiencoder05022009@protonmail.com
-## And that's it :) Enjoy your best day ^^
+2. Signal/Telegram: [My phone number](phone:+84353160723) or [my Telegram](https://t.me/davidhoang05022009)
+3. Send an email to [my Gmail](mailto:hoangminhthien05022009@gmail.com) or [my ProtonMail](mailto:thiencoder05022009@protonmail.com)
+
+## And that's it 😊 Enjoy your best day ^^
