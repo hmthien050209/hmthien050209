@@ -1,5 +1,7 @@
 # Hi there 👋
 
+([My website](https://davidhoang05022009.github.io))
+
 ## I'm...
 
 - A Vietnamese student studying in secondary school.
@@ -7,7 +9,7 @@
 
 ## Skills:
 
-- Flutter, Dart, C, C++, bash, Python, Web (learning in progress)
+- Flutter, C, C++, bash, Python, Basic web development
 
 ## Contact me via:
 
