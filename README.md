@@ -1,20 +1,25 @@
 # Hi there 👋
 
-([My website](https://hmthien050209.github.io))
+Check out my website [here](https://hmthien050209.github.io)!
 
 ## I'm...
 
-- A Vietnamese student studying in secondary school.
-- A Linux fanboy, using Fedora Linux.
+- A Vietnamese student who likes to experiment with new technologies.
 
 ## Skills:
 
-- Flutter, C, C++, bash, Python, Basic web development
+- Flutter
+- C/C++
+- bash
+- Python
+- Web development with VueJS/NuxtJS + TailwindCSS
+- C# WPF
+- Go
 
 ## Contact me via:
 
-1. Discord: davidhoang05022009#2548
-2. Telegram: [my Telegram](https://t.me/davidhoang05022009)
+1. Discord: hmthien050209
+2. Telegram: [my Telegram](https://t.me/hmthien050209)
 3. Send an email to [my Gmail](mailto:hoangminhthien05022009@gmail.com) or [my ProtonMail](mailto:thiencoder05022009@protonmail.com)
 
 ## And that's it 😊 Enjoy your best day ^^
